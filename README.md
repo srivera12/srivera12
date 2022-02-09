@@ -12,12 +12,6 @@ I'm constantly seeking to expand my knowledge base and coding experience since w
 
 🧰 Toolbox 
 
-<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
