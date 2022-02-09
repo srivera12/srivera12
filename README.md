@@ -5,8 +5,6 @@
 Personal Projects: ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/srivera12/projects)  
 Coding Coursework: ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/srivera12/learn-to-code)
 
-<br/>
-
 An aspiring software engineer skilled in foundational frontend web development.  
 I'm constantly seeking to expand my knowledge base and coding experience since writing my first line of code in April 2021.
 
