@@ -2,8 +2,6 @@
 
 ---
 
-<br/>
-
 Personal Projects: ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/srivera12/projects)  
 Coding Coursework: ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/srivera12/learn-to-code)
 
