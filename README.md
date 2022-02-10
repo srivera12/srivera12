@@ -18,6 +18,6 @@ I'm constantly seeking to expand my knowledge base and coding experience since w
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivera12&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivera12&hide=html,css&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivera12&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
