@@ -10,8 +10,14 @@ I'm constantly seeking to expand my knowledge base and coding experience since w
 
 ---
 
-🧰 Toolbox 
+🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivera12&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivera12&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
